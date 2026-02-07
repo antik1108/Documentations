@@ -11,18 +11,7 @@
 [![Perfect for beginners](https://img.shields.io/badge/Perfect%20for-Beginners-green)]()
 [![No cloud required](https://img.shields.io/badge/No%20cloud-Required-blue)]()
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/TTY.FM/main/assets/tty_fm_ss.png" width="100%" alt="Photo 1" style="max-width: 500px; height: auto;">
-      </td>
-      <td width="50%">
-        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/TTY.FM/main/assets/terminal_pic.png" width="100%" alt="Photo 2" style="max-width: 500px; height: auto;">
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="assets/tty_fm_ss.png" width="45%" alt="TTY.FM Screenshot"> <img src="assets/terminal_pic.png" width="45%" alt="Terminal Picture">
 
 ---
 
