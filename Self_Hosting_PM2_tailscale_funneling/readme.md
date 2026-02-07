@@ -11,7 +11,7 @@
 [![Perfect for beginners](https://img.shields.io/badge/Perfect%20for-Beginners-green)]()
 [![No cloud required](https://img.shields.io/badge/No%20cloud-Required-blue)]()
 
-<img src="assets/tty_fm_ss.png" width="45%" alt="TTY.FM Screenshot"> <img src="assets/terminal_pic.png" width="45%" alt="Terminal Picture">
+<img src="assets/tty_fm_ss.jpeg" width="45%" alt="TTY.FM Screenshot"> <img src="assets/terminal_pic.jpeg" width="45%" alt="Terminal Picture">
 
 ---
 
